@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'redis'
-gem 'stemmer', '~> 1.0.x'
+gem 'stemmer'
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
